@@ -6,4 +6,5 @@ Steam: https://steamcommunity.com/id/meximux/
 #
 Projects
 #
-SMPbeta Launcher - Private because of copyright.
+SMPbeta Launcher - Privated because of copyright.
+Available via website for access granted people.
